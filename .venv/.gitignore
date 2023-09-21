@@ -1,0 +1,42 @@
+# Byte-compiled / optimized Python files
+__pycache__/
+*.pyc
+*.pyo
+__pycache__/*
+
+# Local development settings
+*.sqlite3
+*.db
+*.log
+
+# Environment files
+.env
+
+# Secret key
+secret_key.txt
+
+# IDE and editor files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Dependency directories
+venv/
+venv*/
+*.venv/
+*.venv*/
+env/
+env*/
+.env*/
+
+# Compiled Python files
+*.pyc
+
+# Editor temporary/backup files
+*~
+*.swp
+
+# Windows
+Thumbs.db
+desktop.ini
